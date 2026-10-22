@@ -1,0 +1,11 @@
+/build/
+/tools/local/
+*.cia
+*.3dsx
+*.elf
+*.smdh
+*.zip
+node_modules/
+.env
+.env.*
+!.env.example
